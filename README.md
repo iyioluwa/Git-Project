@@ -1,2 +1,2 @@
-# Git-Project
+# git-project
 DevOps Materials
